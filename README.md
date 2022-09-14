@@ -1,4 +1,4 @@
-# Monocraft
+# Monocraft (without the == ligature)
 
 ![](images/preview.png)
 
@@ -51,6 +51,8 @@ After following the installation instructions up above, simply select the "Monoc
 So far, the following ligatures have been added to the font:
 
 <img src="images/ligatures.png" width="300">
+
+But not the == ligature (even though included in the image)
 
 If there is another character combination that you feel could be a ligature, feel free to create an issue.
 
